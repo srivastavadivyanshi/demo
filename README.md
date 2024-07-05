@@ -1,2 +1,3 @@
 # demo
-This is my first repository code
+This is my first git repository code
+author - divyanshi
